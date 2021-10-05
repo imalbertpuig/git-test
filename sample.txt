@@ -1,4 +1,2 @@
-Second line.
-Third line.
 Fourth line.
 Sixth line.
